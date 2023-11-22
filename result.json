@@ -1,0 +1,38 @@
+[
+    {
+        "Id": 1,
+        "Name": "Aung Khant Myat",
+        "TotalMark": 53,
+        "Status": "Pass",
+        "Date": "2023-11-22",
+        "StId": 1,
+        "Link": "Aung Khant Myat_006Profile.jpg"
+    },
+    {
+        "Id": 2,
+        "Name": "Tun Ye Min",
+        "TotalMark": 100,
+        "Status": "Pass",
+        "Date": "2023-11-22",
+        "StId": 4,
+        "Link": "Tun Ye Min_007Profile.jpg"
+    },
+    {
+        "Id": 3,
+        "Name": "Chu Khin Khin",
+        "TotalMark": 20,
+        "Status": "Fail",
+        "Date": "2023-11-22",
+        "StId": 6,
+        "Link": "Chu Khin Khin_008Profile.jpg"
+    },
+    {
+        "Id": 4,
+        "Name": "Naw Si Si",
+        "TotalMark": 80,
+        "Status": "Pass",
+        "Date": "2023-11-22",
+        "StId": 7,
+        "Link": "Naw Si Si_009Profile.jpg"
+    }
+]
